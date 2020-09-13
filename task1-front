@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./css/responsive.css" />
+    <link rel="stylesheet" href="./css/animation.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="content">
+          <ul><li><b>INTERIOR DESIGN</b></li>
+            <li>ABOUT</li>
+            <li>PORTFOLIO</li>
+            <li>TESTIMONIALS</li>
+            <li>BLOG</li>
+          </ul>
+          <span>CONTACT</span>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section class="home-cover">
+        <img src="./cover.png" alt="" />
+        <div class="overlay">
+        </div>
+      </section>
+      <section class="container head">Custom Built Adobe XD Template
+     <p>Download for Free</p> 
+     </section> <div class="container"><hr></div>
+      <section class="container blog-list">
+        <div class="blog-item">
+         <h4>TITLE1…</h4>
+          <div class="img">
+            <img src="./cards.png" />
+          </div>
+          <small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada non libero ac dapibus. Pellentesque semper eros non sagittis gravida. </small>
+          <div class="card-footer">
+            <a href="./article.html">MORE INFO</a>
+          </div>
+        </div>
+        <div class="blog-item">
+            <h4>TITLE1…</h4>
+             <div class="img">
+               <img src="./cards.png" />
+             </div>
+             <small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada non libero ac dapibus. Pellentesque semper eros non sagittis gravida. </small>
+             <div class="card-footer">
+               <a href="./article.html">MORE INFO</a>
+             </div>
+           </div>
+           <div class="blog-item">
+            <h4>TITLE1…</h4>
+             <div class="img">
+               <img src="./cards.png" />
+             </div>
+             <small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris malesuada non libero ac dapibus. Pellentesque semper eros non sagittis gravida. </small>
+             <div class="card-footer">
+               <a href="./article.html">MORE INFO</a>
+             </div>
+           </div>
+        </section>
+        <div class="container"><hr></div>
+        <section class="container head">Instagram Instagram</section>
+        <section class="container insta">
+            <aside class="img img-aside">
+                <img src="./fmx_interior_design_co_xiamen_china_kitchen_bath_bedroom.png">
+            </aside>
+            <div class="  sq">
+                <div class="img"><img src="./cards.png"></div>
+                <div class="img"><img src="./cards.png"></div>
+                <div class="img"><img src="./cards.png"></div>
+                <div class="img"><img src="./cards.png"></div>
+            </div>
+        </section>
+            <hr>
+            <section class="footer container">
+                
+                    <img src="./facebook.png" />
+                    <img src="./instagram-sketched.png" />
+                    <img src="./twitter.png" />
+               
+            </section>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>
